@@ -71,7 +71,29 @@ Register Number:24900283.
 
 ```
 **RTL Schematic**
+HALF ADDER
+
+![Half adder EXP 3 (2)](https://github.com/user-attachments/assets/b92ec713-25bf-440d-9216-37003e791279)
+
+HALF SUBTRACTOR
+
+![Half subtractor EXP 3](https://github.com/user-attachments/assets/85b29218-be04-4710-bd6a-5ca79dff0493)
+
+
+
 
 **Output/TIMING Waveform**
 
+
+HALF ADDER
+
+![Half adder EXP 3](https://github.com/user-attachments/assets/181b79bf-7082-4935-9b73-8d70403987d8)
+
+HALF SUBTRACTOR
+
+![Half subtractor EXP 3 (2)](https://github.com/user-attachments/assets/e0d74749-69c1-48b7-a483-4d41ff5d063f)
+
+
+
 **Result:**
+Thus the half adder and half subtractor circuit and its truth table are verified.
