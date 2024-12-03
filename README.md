@@ -36,7 +36,7 @@ Figure -02 HALF Subtractor
 **Truthtable**
 
 **Procedure**
-
+```
 1.	Type the program in Quartus software.
 
 2.	Compile and run the program.
@@ -47,10 +47,10 @@ Figure -02 HALF Subtractor
 
 5.	For different input combinations generate the timing diagram.
 
-
+```
 **Program:**
 
-![Screenshot 2024-12-03 140705](https://github.com/user-attachments/assets/94bb9426-864d-4707-9652-55cf1bc4e50c)
+
 
 Developed by: B.VIMALRAJ.
 Register Number:24900283.
