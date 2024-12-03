@@ -58,12 +58,17 @@ assign sum =(a ^ b);
 assign carry = (a & b);
 endmodule
 
-```
+HALF SUBTRACTOR
+module halfsubtractor(a,b,difference,borrow);
+input a,b;
+output difference,borrow;
+assign difference= (a ^ b);
 
 
 Developed by: B.VIMALRAJ.
 Register Number:24900283.
 
+```
 **RTL Schematic**
 
 **Output/TIMING Waveform**
