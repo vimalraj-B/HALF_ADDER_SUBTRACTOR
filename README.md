@@ -49,7 +49,16 @@ Figure -02 HALF Subtractor
 
 ```
 **Program:**
+```
+HALF ADDER
+module halfadder(a,b,sum,carry);
+input a,b;
+output sum,carry;
+assign sum =(a ^ b);
+assign carry = (a & b);
+endmodule
 
+```
 
 
 Developed by: B.VIMALRAJ.
