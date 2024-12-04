@@ -71,6 +71,7 @@ Register Number:24900283.
 
 ```
 **RTL Schematic**
+
 HALF ADDER
 
 ![Half adder EXP 3 (2)](https://github.com/user-attachments/assets/b92ec713-25bf-440d-9216-37003e791279)
